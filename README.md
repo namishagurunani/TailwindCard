@@ -31,7 +31,7 @@
 # - applied to elements.
 - Custom Properties for ::backdrop:
 - Similar to the previous section, custom properties specific to the ::backdrop pseudo-element are defined. These may be used for styling backdrop elements in 
-- # certain situations.
+  certain situations.
 # Sumbission-Required:
 - Github-Link[click here](https://github.com/namishagurunani/TailwindCard)
 - Hosted-Link[click here](https://namishagurunani.github.io/TailwindCard/dist/index.html)
