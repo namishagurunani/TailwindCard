@@ -2,11 +2,11 @@
 ![image](https://github.com/namishagurunani/TailwindCard/assets/126158413/be0a63bf-1a63-49cd-82a6-76a7fde460c6)
 
 # HTML (index.html):
-- Document Structure:
+# Document Structure:
 - This HTML document starts with the usual document structure including a doctype declaration, 'html', 'head', and 'body' tags.
-  Meta Tags:
+#  Meta Tags:
 - The 'meta' tags in the 'head' section set the character encoding and define the viewport for responsive design.
-  Title:
+  - # Title:
 - The 'title' tag sets the title of the web page to "Card-tailwind."
   Linking External CSS:
 - The 'link' tag links an external CSS file named "style.css," which contains the custom styles for the webpage.
