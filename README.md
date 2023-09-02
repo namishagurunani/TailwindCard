@@ -28,8 +28,8 @@
 - The CSS file starts with a section that resets default styles for various HTML elements. It aims to provide a consistent base styling.
 # - Custom Properties:
 - Custom properties (CSS variables) are defined to potentially use with Tailwind CSS classes. These custom properties likely hold values that can be dynamically 
-# - applied to elements.
-- Custom Properties for ::backdrop:
+ applied to elements.
+# - Custom Properties for ::backdrop:
 - Similar to the previous section, custom properties specific to the ::backdrop pseudo-element are defined. These may be used for styling backdrop elements in 
   certain situations.
 # Sumbission-Required:
